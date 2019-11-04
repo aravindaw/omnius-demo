@@ -1,4 +1,4 @@
-# Web Page Automatiom demo project
+# Web Page Automation demo project
 ### Requiremnts
 * Java 8
 * require Mavan to run the project 
