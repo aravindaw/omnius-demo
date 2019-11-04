@@ -1,4 +1,4 @@
-# omnius-demo
+# Web Page Automatiom demo project
 ### Requiremnts
 * Java 8
 * require Mavan to run the project 
